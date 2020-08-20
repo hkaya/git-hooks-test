@@ -1,5 +1,5 @@
-- id: platform-check
-  name: platform-check
+- id: git_hooks_test
+  name: git_hooks_test
   description: Check platform line
   entry: entry
   language: python
