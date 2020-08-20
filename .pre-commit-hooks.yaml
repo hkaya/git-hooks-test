@@ -1,0 +1,7 @@
+- id: platform-check
+  name: platform-check
+  description: Check platform line
+  entry: entry
+  language: python
+  language_version: python3
+  types: [text]
